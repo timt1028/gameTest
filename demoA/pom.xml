@@ -14,7 +14,11 @@
 	<name>demoA</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
+<<<<<<< HEAD
 		<java.version>17</java.version>
+=======
+		<java.version>8</java.version>
+>>>>>>> 694c4ba (main)
 	</properties>
 	<dependencies>
 		<dependency>
